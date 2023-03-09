@@ -1,0 +1,24 @@
+import { Billings } from "./Billings" ;
+import { Business } from "./Business" ;
+import { CardDeals } from "./CardDeals" ;
+import { Client } from "./Client" ;
+import { CTA } from "./CTA" ;
+import { Footer } from "./Footer" ;
+import { GetStarted } from "./GetStarted" ;
+import { Hero } from "./Hero" ;
+import { Navbar } from "./Navbar" ;
+import Stats from "./Stats" ;
+
+export
+{
+  Billings,
+  Business,
+  CardDeals,
+  Client,
+  CTA,
+  Footer,
+  GetStarted,
+  Hero,
+  Navbar,
+  Stats
+}
